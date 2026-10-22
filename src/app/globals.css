@@ -1,0 +1,112 @@
+@import "tailwindcss";
+
+/*
+ * Design tokens από τον θυρεό του Συστήματος.
+ * Κανόνες αντίθεσης (WCAG AA): ποτέ κόκκινο κείμενο σε πράσινο φόντο (1.74:1).
+ * Το κόκκινο σε πράσινο μόνο ως γέμισμα κουμπιού με λευκό κείμενο ή διακοσμητικό περίγραμμα.
+ */
+@theme {
+  --color-forest: #164a2f;
+  --color-forest-dark: #0f3621;
+  --color-forest-light: #2e6b48;
+  --color-scout-red: #c41e2f;
+  --color-scout-red-dark: #9e1724;
+  --color-paper: #ffffff;
+  --color-sand: #f4f1ea;
+  --color-ink: #1c1c1c;
+
+  --font-sans: var(--font-body), ui-sans-serif, system-ui, sans-serif;
+  --font-heading: var(--font-heading-face), var(--font-body), ui-sans-serif, sans-serif;
+
+  --radius-card: 0.5rem;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    -webkit-text-size-adjust: 100%;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+  }
+
+  body {
+    background-color: var(--color-paper);
+    color: var(--color-ink);
+    font-family: var(--font-sans);
+  }
+
+  /* Κεφαλαίοι τίτλοι: με lang="el" οι browsers αφαιρούν σωστά τους τόνους. */
+  h1,
+  h2,
+  h3,
+  .heading {
+    font-family: var(--font-heading);
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.02em;
+    line-height: 1.1;
+  }
+
+  :focus-visible {
+    outline: 3px solid var(--color-forest);
+    outline-offset: 2px;
+  }
+
+  /* Σε σκούρο φόντο το focus ring γίνεται λευκό. */
+  .on-dark :focus-visible {
+    outline-color: var(--color-paper);
+  }
+}
+
+/* Κείμενο από MDX (τμήματα, εκδηλώσεις, άλμπουμ, νομικά). */
+@layer components {
+  .prose-scout {
+    max-width: 68ch;
+    line-height: 1.75;
+  }
+  .prose-scout > * + * {
+    margin-top: 1em;
+  }
+  .prose-scout h2 {
+    margin-top: 1.6em;
+    font-size: 1.9rem;
+    color: var(--color-forest);
+  }
+  .prose-scout h3 {
+    margin-top: 1.4em;
+    font-size: 1.4rem;
+    color: var(--color-forest);
+  }
+  .prose-scout ul {
+    list-style: none;
+    padding-left: 0;
+  }
+  .prose-scout ul li {
+    position: relative;
+    padding-left: 1.5em;
+  }
+  .prose-scout ul li::before {
+    content: "";
+    position: absolute;
+    left: 0.2em;
+    top: 0.65em;
+    width: 0.5em;
+    height: 0.5em;
+    border-radius: 2px;
+    background: var(--color-scout-red);
+    transform: rotate(45deg);
+  }
+  .prose-scout a {
+    color: var(--color-forest);
+    font-weight: 600;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+  .prose-scout strong {
+    color: var(--color-forest-dark);
+  }
+}

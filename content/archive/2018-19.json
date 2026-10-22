@@ -1,0 +1,86 @@
+{
+  "year": "2018–19",
+  "leaders": [
+    {
+      "name": "Γιώργος Παπαδόπουλος",
+      "role": "Αρχηγός Συστήματος",
+      "section": "systima"
+    },
+    {
+      "name": "Δημήτρης Νικολάου",
+      "role": "Αρχηγός Ομάδας",
+      "section": "omada-proskopon"
+    },
+    {
+      "name": "Ιωάννα Πετρίδου",
+      "role": "Ακέλα",
+      "section": "agelh-lykopoulon"
+    },
+    {
+      "name": "Νίκος Αντωνίου",
+      "role": "Βαθμοφόρος Αγέλης",
+      "section": "agelh-lykopoulon"
+    },
+    {
+      "name": "Κώστας Λαμπρόπουλος",
+      "role": "Αρχηγός Κοινότητας",
+      "section": "koinotita-anixneuton"
+    }
+  ],
+  "trips": [
+    {
+      "title": "Εκδρομή στην Τήνο",
+      "section": "agelh-lykopoulon",
+      "date": "2019-05-11",
+      "type": "point",
+      "places": [
+        {
+          "name": "Τήνος",
+          "lat": 37.539,
+          "lng": 25.163
+        }
+      ]
+    },
+    {
+      "title": "Κατασκήνωση",
+      "section": "omada-proskopon",
+      "date": "2019-07-06",
+      "type": "point",
+      "places": [
+        {
+          "name": "Καρπενήσι",
+          "lat": 38.9144,
+          "lng": 21.7963
+        }
+      ]
+    },
+    {
+      "title": "Θερινή εξόρμηση: Σαμοθράκη",
+      "section": "koinotita-anixneuton",
+      "date": "2019-07-10",
+      "type": "route",
+      "places": [
+        {
+          "name": "Καμαριώτισσα",
+          "lat": 40.474,
+          "lng": 25.472
+        },
+        {
+          "name": "Θέρμα",
+          "lat": 40.499,
+          "lng": 25.613
+        },
+        {
+          "name": "Φόνιας",
+          "lat": 40.498,
+          "lng": 25.645
+        },
+        {
+          "name": "Σάος – Φεγγάρι",
+          "lat": 40.443,
+          "lng": 25.597
+        }
+      ]
+    }
+  ]
+}

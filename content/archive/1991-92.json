@@ -1,0 +1,81 @@
+{
+  "year": "1991–92",
+  "leaders": [
+    {
+      "name": "Τάσος Βλάχος",
+      "role": "Αρχηγός Συστήματος",
+      "section": "systima"
+    },
+    {
+      "name": "Γιάννης Οικονόμου",
+      "role": "Αρχηγός Ομάδας",
+      "section": "omada-proskopon"
+    },
+    {
+      "name": "Βούλα Αναστασίου",
+      "role": "Ακέλα",
+      "section": "agelh-lykopoulon"
+    },
+    {
+      "name": "Νίκη Φωτίου",
+      "role": "Αρχηγός Κοινότητας",
+      "section": "koinotita-anixneuton"
+    }
+  ],
+  "trips": [
+    {
+      "title": "Ανοιξιάτικη κατασκήνωση",
+      "section": "agelh-lykopoulon",
+      "date": "1992-04-25",
+      "type": "point",
+      "places": [
+        {
+          "name": "Προσκοπικό Κέντρο Βαρυμπόμπης",
+          "lat": 38.1325,
+          "lng": 23.7814
+        }
+      ]
+    },
+    {
+      "title": "Κατασκήνωση",
+      "section": "omada-proskopon",
+      "date": "1992-07-07",
+      "type": "point",
+      "places": [
+        {
+          "name": "Καλάβρυτα",
+          "lat": 38.0326,
+          "lng": 22.1123
+        }
+      ]
+    },
+    {
+      "title": "Θερινή εξόρμηση: Κυκλάδες με σακίδιο",
+      "section": "koinotita-anixneuton",
+      "date": "1992-07-15",
+      "type": "route",
+      "places": [
+        {
+          "name": "Πειραιάς",
+          "lat": 37.942,
+          "lng": 23.646
+        },
+        {
+          "name": "Τήνος",
+          "lat": 37.539,
+          "lng": 25.163
+        },
+        {
+          "name": "Άνδρος – Κόρθι",
+          "lat": 37.768,
+          "lng": 24.948
+        },
+        {
+          "name": "Άνδρος – Χώρα",
+          "lat": 37.84,
+          "lng": 24.938
+        }
+      ]
+    }
+  ]
+}

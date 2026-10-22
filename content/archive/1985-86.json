@@ -1,0 +1,81 @@
+{
+  "year": "1985–86",
+  "leaders": [
+    {
+      "name": "Τάσος Βλάχος",
+      "role": "Αρχηγός Συστήματος",
+      "section": "systima"
+    },
+    {
+      "name": "Μανώλης Κρητικός",
+      "role": "Αρχηγός Ομάδας",
+      "section": "omada-proskopon"
+    },
+    {
+      "name": "Βούλα Αναστασίου",
+      "role": "Ακέλα",
+      "section": "agelh-lykopoulon"
+    },
+    {
+      "name": "Λευτέρης Σπυρόπουλος",
+      "role": "Αρχηγός Κοινότητας",
+      "section": "koinotita-anixneuton"
+    }
+  ],
+  "trips": [
+    {
+      "title": "Εκδρομή στο Ναύπλιο",
+      "section": "agelh-lykopoulon",
+      "date": "1985-11-10",
+      "type": "point",
+      "places": [
+        {
+          "name": "Ναύπλιο",
+          "lat": 37.5673,
+          "lng": 22.8016
+        }
+      ]
+    },
+    {
+      "title": "Κατασκήνωση",
+      "section": "omada-proskopon",
+      "date": "1986-07-05",
+      "type": "point",
+      "places": [
+        {
+          "name": "Αρχαία Ολυμπία",
+          "lat": 37.638,
+          "lng": 21.63
+        }
+      ]
+    },
+    {
+      "title": "Θερινή εξόρμηση: Παρνασσός – Δελφοί",
+      "section": "koinotita-anixneuton",
+      "date": "1986-07-18",
+      "type": "route",
+      "places": [
+        {
+          "name": "Αράχωβα",
+          "lat": 38.4797,
+          "lng": 22.585
+        },
+        {
+          "name": "Κωρύκειο Άντρο",
+          "lat": 38.513,
+          "lng": 22.563
+        },
+        {
+          "name": "Δελφοί",
+          "lat": 38.4824,
+          "lng": 22.501
+        },
+        {
+          "name": "Ιτέα",
+          "lat": 38.4325,
+          "lng": 22.422
+        }
+      ]
+    }
+  ]
+}

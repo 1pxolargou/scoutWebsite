@@ -1,0 +1,35 @@
+{
+  "year": "1985–86",
+  "note": "Προαιρετικό: κάτι σημαντικό για τη χρονιά",
+  "leaders": [
+    { "name": "Όνομα Επώνυμο", "role": "Αρχηγός Συστήματος", "section": "systima" },
+    { "name": "Όνομα Επώνυμο", "role": "Ακέλα", "section": "agelh-lykopoulon" },
+    { "name": "Όνομα Επώνυμο", "role": "Αρχηγός Ομάδας", "section": "omada-proskopon" },
+    {
+      "name": "Όνομα Επώνυμο",
+      "role": "Αρχηγός Κοινότητας",
+      "section": "koinotita-anixneuton",
+      "leaderId": "προαιρετικό: το id από το content/leaders.json για να ανοίγει το προφίλ"
+    }
+  ],
+  "trips": [
+    {
+      "title": "Εκδρομή (μία πινέζα)",
+      "section": "agelh-lykopoulon",
+      "date": "1985-11-10",
+      "type": "point",
+      "places": [{ "name": "Πάρνηθα", "lat": 38.1606, "lng": 23.7239 }]
+    },
+    {
+      "title": "Θερινή εξόρμηση (διαδρομή: στάσεις με τη σειρά)",
+      "section": "koinotita-anixneuton",
+      "date": "1986-07-18",
+      "type": "route",
+      "places": [
+        { "name": "Αφετηρία", "lat": 38.4797, "lng": 22.585 },
+        { "name": "Στάση", "lat": 38.513, "lng": 22.563 },
+        { "name": "Τέρμα", "lat": 38.4824, "lng": 22.501 }
+      ]
+    }
+  ]
+}

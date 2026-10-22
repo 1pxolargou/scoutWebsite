@@ -1,0 +1,140 @@
+{
+  "year": "2022–23",
+  "leaders": [
+    {
+      "name": "Γιώργος Παπαδόπουλος",
+      "role": "Αρχηγός Συστήματος",
+      "section": "systima"
+    },
+    {
+      "name": "Θανάσης Ρήγας",
+      "role": "Υπαρχηγός Συστήματος",
+      "section": "systima"
+    },
+    {
+      "name": "Ιωάννα Πετρίδου",
+      "role": "Αρχηγός Αγέλης",
+      "section": "agelh-lykopoulon"
+    },
+    {
+      "name": "Νίκος Αντωνίου",
+      "role": "Βαθμοφόρος Αγέλης",
+      "section": "agelh-lykopoulon"
+    },
+    {
+      "name": "Δημήτρης Νικολάου",
+      "role": "Αρχηγός Ομάδας",
+      "section": "omada-proskopon"
+    },
+    {
+      "name": "Στέλιος Μαρκόπουλος",
+      "role": "Υπαρχηγός Ομάδας",
+      "section": "omada-proskopon"
+    },
+    {
+      "name": "Κώστας Λαμπρόπουλος",
+      "role": "Αρχηγός Κοινότητας",
+      "section": "koinotita-anixneuton"
+    },
+    {
+      "name": "Παναγιώτης Στεφανίδης",
+      "role": "Υπαρχηγός Κοινότητας",
+      "section": "koinotita-anixneuton"
+    }
+  ],
+  "trips": [
+    {
+      "title": "Εκδρομή γνωριμίας",
+      "section": "agelh-lykopoulon",
+      "date": "2022-11-06",
+      "type": "point",
+      "places": [
+        {
+          "name": "Πάρνηθα – Καταφύγιο Μπάφι",
+          "lat": 38.1606,
+          "lng": 23.7239
+        }
+      ]
+    },
+    {
+      "title": "Ανοιξιάτικη κατασκήνωση",
+      "section": "agelh-lykopoulon",
+      "date": "2023-04-22",
+      "type": "point",
+      "places": [
+        {
+          "name": "Προσκοπικό Κέντρο Βαρυμπόμπης",
+          "lat": 38.1325,
+          "lng": 23.7814
+        }
+      ]
+    },
+    {
+      "title": "Χειμερινή εξόρμηση",
+      "section": "omada-proskopon",
+      "date": "2023-02-11",
+      "type": "point",
+      "places": [
+        {
+          "name": "Δίρφυς – Καταφύγιο Λίριζα",
+          "lat": 38.6189,
+          "lng": 23.8486
+        }
+      ]
+    },
+    {
+      "title": "Καλοκαιρινή κατασκήνωση",
+      "section": "omada-proskopon",
+      "date": "2023-07-08",
+      "type": "point",
+      "places": [
+        {
+          "name": "Καρπενήσι",
+          "lat": 38.9144,
+          "lng": 21.7963
+        }
+      ]
+    },
+    {
+      "title": "Πεζοπορία στον Υμηττό",
+      "section": "koinotita-anixneuton",
+      "date": "2022-10-23",
+      "type": "point",
+      "places": [
+        {
+          "name": "Υμηττός – Μονή Καισαριανής",
+          "lat": 37.9605,
+          "lng": 23.7983
+        }
+      ]
+    },
+    {
+      "title": "Θερινή εξόρμηση: Νότια Πίνδος",
+      "section": "koinotita-anixneuton",
+      "date": "2023-07-15",
+      "type": "route",
+      "places": [
+        {
+          "name": "Μέτσοβο",
+          "lat": 39.77,
+          "lng": 21.1833
+        },
+        {
+          "name": "Βωβούσα",
+          "lat": 39.9372,
+          "lng": 21.0472
+        },
+        {
+          "name": "Δίστρατο",
+          "lat": 40.0467,
+          "lng": 21.045
+        },
+        {
+          "name": "Σαμαρίνα",
+          "lat": 40.1039,
+          "lng": 21.004
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "year": "1978–79",
+  "note": "TODO: Ιδρύεται η Κοινότητα Ανιχνευτών.",
+  "leaders": [
+    {
+      "name": "Ανδρέας Μαυρίδης",
+      "role": "Αρχηγός Συστήματος",
+      "section": "systima"
+    },
+    {
+      "name": "Κώστας Ζαχαρίου",
+      "role": "Αρχηγός Ομάδας",
+      "section": "omada-proskopon"
+    },
+    {
+      "name": "Ρένα Παππά",
+      "role": "Ακέλα",
+      "section": "agelh-lykopoulon"
+    },
+    {
+      "name": "Τάσος Βλάχος",
+      "role": "Αρχηγός Κοινότητας",
+      "section": "koinotita-anixneuton"
+    }
+  ],
+  "trips": [
+    {
+      "title": "Εκδρομή στον Υμηττό",
+      "section": "agelh-lykopoulon",
+      "date": "1978-11-05",
+      "type": "point",
+      "places": [
+        {
+          "name": "Υμηττός – Μονή Καισαριανής",
+          "lat": 37.9605,
+          "lng": 23.7983
+        }
+      ]
+    },
+    {
+      "title": "Κατασκήνωση",
+      "section": "omada-proskopon",
+      "date": "1979-07-08",
+      "type": "point",
+      "places": [
+        {
+          "name": "Ζήρεια – Τρίκαλα Κορινθίας",
+          "lat": 37.92,
+          "lng": 22.38
+        }
+      ]
+    },
+    {
+      "title": "Πρώτη θερινή εξόρμηση: Πελοπόννησος",
+      "section": "koinotita-anixneuton",
+      "date": "1979-07-20",
+      "type": "route",
+      "places": [
+        {
+          "name": "Κόρινθος",
+          "lat": 37.9387,
+          "lng": 22.932
+        },
+        {
+          "name": "Μυκήνες",
+          "lat": 37.7308,
+          "lng": 22.7564
+        },
+        {
+          "name": "Ναύπλιο",
+          "lat": 37.5673,
+          "lng": 22.8016
+        }
+      ]
+    }
+  ]
+}

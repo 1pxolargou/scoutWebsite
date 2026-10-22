@@ -1,0 +1,168 @@
+{
+  "year": "2025–26",
+  "leaders": [
+    {
+      "name": "Γιώργος Παπαδόπουλος",
+      "role": "Αρχηγός Συστήματος",
+      "section": "systima"
+    },
+    {
+      "name": "Μαρία Κωνσταντίνου",
+      "role": "Υπαρχηγός Συστήματος",
+      "section": "systima"
+    },
+    {
+      "name": "Ελένη Γεωργίου",
+      "role": "Αρχηγός Αγέλης",
+      "section": "agelh-lykopoulon"
+    },
+    {
+      "name": "Νίκος Αντωνίου",
+      "role": "Βαθμοφόρος Αγέλης",
+      "section": "agelh-lykopoulon"
+    },
+    {
+      "name": "Κατερίνα Δημητρίου",
+      "role": "Βαθμοφόρος Αγέλης",
+      "section": "agelh-lykopoulon"
+    },
+    {
+      "name": "Δημήτρης Νικολάου",
+      "role": "Αρχηγός Ομάδας",
+      "section": "omada-proskopon"
+    },
+    {
+      "name": "Σοφία Ιωάννου",
+      "role": "Υπαρχηγός Ομάδας",
+      "section": "omada-proskopon"
+    },
+    {
+      "name": "Αλέξανδρος Βασιλείου",
+      "role": "Βαθμοφόρος Ομάδας",
+      "section": "omada-proskopon"
+    },
+    {
+      "name": "Χριστίνα Μιχαηλίδου",
+      "role": "Αρχηγός Κοινότητας",
+      "section": "koinotita-anixneuton"
+    },
+    {
+      "name": "Παναγιώτης Στεφανίδης",
+      "role": "Υπαρχηγός Κοινότητας",
+      "section": "koinotita-anixneuton"
+    }
+  ],
+  "trips": [
+    {
+      "title": "Εκδρομή γνωριμίας",
+      "section": "agelh-lykopoulon",
+      "date": "2025-11-09",
+      "type": "point",
+      "places": [
+        {
+          "name": "Πάρνηθα – Καταφύγιο Μπάφι",
+          "lat": 38.1606,
+          "lng": 23.7239
+        }
+      ]
+    },
+    {
+      "title": "Ανοιξιάτικη κατασκήνωση",
+      "section": "agelh-lykopoulon",
+      "date": "2026-04-18",
+      "type": "point",
+      "places": [
+        {
+          "name": "Πήλιο – Μακρινίτσα",
+          "lat": 39.4004,
+          "lng": 22.9871
+        }
+      ]
+    },
+    {
+      "title": "Πεζοπορία στον Υμηττό",
+      "section": "omada-proskopon",
+      "date": "2026-03-08",
+      "type": "point",
+      "places": [
+        {
+          "name": "Υμηττός – Μονή Καισαριανής",
+          "lat": 37.9605,
+          "lng": 23.7983
+        }
+      ]
+    },
+    {
+      "title": "Χειμερινή εξόρμηση",
+      "section": "omada-proskopon",
+      "date": "2026-02-14",
+      "type": "point",
+      "places": [
+        {
+          "name": "Προσκοπικό Κέντρο Βαρυμπόμπης",
+          "lat": 38.1325,
+          "lng": 23.7814
+        }
+      ]
+    },
+    {
+      "title": "Καλοκαιρινή κατασκήνωση",
+      "section": "omada-proskopon",
+      "date": "2026-07-10",
+      "type": "point",
+      "places": [
+        {
+          "name": "Καρπενήσι",
+          "lat": 38.9144,
+          "lng": 21.7963
+        }
+      ]
+    },
+    {
+      "title": "Εθελοντισμός σε φιλοζωικό καταφύγιο",
+      "section": "koinotita-anixneuton",
+      "date": "2026-05-09",
+      "type": "point",
+      "places": [
+        {
+          "name": "Φιλοζωικό καταφύγιο Αττικής",
+          "lat": 38.07,
+          "lng": 23.9
+        }
+      ]
+    },
+    {
+      "title": "Θερινή εξόρμηση: Όλυμπος",
+      "section": "koinotita-anixneuton",
+      "date": "2026-07-01",
+      "type": "route",
+      "places": [
+        {
+          "name": "Λιτόχωρο",
+          "lat": 40.1031,
+          "lng": 22.5025
+        },
+        {
+          "name": "Πριόνια",
+          "lat": 40.085,
+          "lng": 22.414
+        },
+        {
+          "name": "Καταφύγιο Σπήλιος Αγαπητός",
+          "lat": 40.082,
+          "lng": 22.38
+        },
+        {
+          "name": "Μύτικας",
+          "lat": 40.0856,
+          "lng": 22.3586
+        },
+        {
+          "name": "Καταφύγιο Γιόσος Αποστολίδης",
+          "lat": 40.093,
+          "lng": 22.347
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+# Ίδιες αλλαγές γραμμής (LF) σε Windows και Linux.
+* text=auto eol=lf
+
+# Δυαδικά αρχεία: χωρίς καμία μετατροπή.
+*.pdf binary
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.webp binary
+*.ico binary
+*.woff2 binary
+*.xlsx binary

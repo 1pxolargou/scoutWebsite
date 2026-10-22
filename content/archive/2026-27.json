@@ -1,0 +1,102 @@
+{
+  "year": "2026–27",
+  "leaders": [
+    {
+      "name": "Σωτήρης Θεοδωρακέας",
+      "role": "Αρχηγός Συστήματος",
+      "section": "systima",
+      "leaderId": "sotiris-theodorakeas"
+    },
+    {
+      "name": "Βάσια Χαραλαμπίδου",
+      "role": "Βαθμοφόρος Συστήματος",
+      "section": "systima",
+      "leaderId": "vasia-charalampidou"
+    },
+    {
+      "name": "Κωνσταντίνος Τσακογιάννης",
+      "role": "Βαθμοφόρος Συστήματος",
+      "section": "systima",
+      "leaderId": "konstantinos-tsakogiannis"
+    },
+    {
+      "name": "Μιχάλης Νούσκας",
+      "role": "Αρχηγός Αγέλης",
+      "section": "agelh-lykopoulon",
+      "leaderId": "michalis-nouskas"
+    },
+    {
+      "name": "Άγγελος Μέτικος",
+      "role": "Βαθμοφόρος Αγέλης",
+      "section": "agelh-lykopoulon",
+      "leaderId": "angelos-metikos"
+    },
+    {
+      "name": "Κατερίνα Δαγρέ",
+      "role": "Βαθμοφόρος Αγέλης",
+      "section": "agelh-lykopoulon",
+      "leaderId": "katerina-dagre"
+    },
+    {
+      "name": "Στελλίνα Φραγκή",
+      "role": "Βαθμοφόρος Αγέλης",
+      "section": "agelh-lykopoulon",
+      "leaderId": "stellina-fragki"
+    },
+    {
+      "name": "Ιωάννης Χριστούλης",
+      "role": "Αρχηγός Ομάδας",
+      "section": "omada-proskopon",
+      "leaderId": "ioannis-christoulis"
+    },
+    {
+      "name": "Αλίκη Νούσκα",
+      "role": "Βαθμοφόρος Ομάδας",
+      "section": "omada-proskopon",
+      "leaderId": "aliki-nouska"
+    },
+    {
+      "name": "Κωνσταντίνος Ρίτσος",
+      "role": "Αρχηγός Κοινότητας",
+      "section": "koinotita-anixneuton",
+      "leaderId": "konstantinos-ritsos"
+    },
+    {
+      "name": "Νεφέλη Αφεντούλη",
+      "role": "Βαθμοφόρος Κοινότητας",
+      "section": "koinotita-anixneuton",
+      "leaderId": "nefeli-afentouli"
+    },
+    {
+      "name": "Ηρώ Βελισσάρη",
+      "role": "Βαθμοφόρος Κοινότητας",
+      "section": "koinotita-anixneuton",
+      "leaderId": "iro-velissari"
+    },
+    {
+      "name": "Κωνσταντίνος Ανδρεούλας",
+      "role": "Βαθμοφόρος Κοινότητας",
+      "section": "koinotita-anixneuton",
+      "leaderId": "konstantinos-andreoulas"
+    },
+    {
+      "name": "Χρυσάνθη Σκόνδρα",
+      "role": "Μέλος Δικτύου",
+      "section": "diktyo",
+      "leaderId": "chrysanthi-skondra"
+    },
+    {
+      "name": "Ρογήρος Αγρότης",
+      "role": "Μέλος Δικτύου",
+      "section": "diktyo",
+      "leaderId": "rogiros-agrotis"
+    },
+    {
+      "name": "Κωνσταντίνα Τούτουζα",
+      "role": "Μέλος Δικτύου",
+      "section": "diktyo",
+      "leaderId": "konstantina-toutouza"
+    }
+  ],
+  "trips": []
+}

@@ -1,0 +1,62 @@
+{
+  "year": "1972–73",
+  "note": "TODO: Η Κοινότητα Ανιχνευτών δεν είχε ακόμα ιδρυθεί.",
+  "leaders": [
+    {
+      "name": "Ανδρέας Μαυρίδης",
+      "role": "Αρχηγός Συστήματος",
+      "section": "systima"
+    },
+    {
+      "name": "Ευάγγελος Ρούσσος",
+      "role": "Αρχηγός Ομάδας",
+      "section": "omada-proskopon"
+    },
+    {
+      "name": "Ελένη Σταμάτη",
+      "role": "Ακέλα",
+      "section": "agelh-lykopoulon"
+    }
+  ],
+  "trips": [
+    {
+      "title": "Εκδρομή στην Πεντέλη",
+      "section": "agelh-lykopoulon",
+      "date": "1972-11-12",
+      "type": "point",
+      "places": [
+        {
+          "name": "Πεντέλη",
+          "lat": 38.051,
+          "lng": 23.864
+        }
+      ]
+    },
+    {
+      "title": "Κατασκήνωση",
+      "section": "omada-proskopon",
+      "date": "1973-07-10",
+      "type": "point",
+      "places": [
+        {
+          "name": "Κιθαιρώνας",
+          "lat": 38.18,
+          "lng": 23.25
+        }
+      ]
+    },
+    {
+      "title": "Εξόρμηση στην Πάρνηθα",
+      "section": "omada-proskopon",
+      "date": "1973-03-18",
+      "type": "point",
+      "places": [
+        {
+          "name": "Πάρνηθα – Καταφύγιο Μπάφι",
+          "lat": 38.1606,
+          "lng": 23.7239
+        }
+      ]
+    }
+  ]
+}

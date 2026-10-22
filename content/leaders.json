@@ -1,0 +1,196 @@
+[
+  {
+    "id": "sotiris-theodorakeas",
+    "firstName": "Σωτήρης",
+    "lastName": "Θεοδωρακέας",
+    "scoutName": "Δράκος",
+    "role": "Αρχηγός Συστήματος",
+    "section": "systima",
+    "joinedYear": 2009,
+    "trainings": [
+      "Εκπαίδευση Αρχηγών και Υπαρχηγών Συστημάτων",
+      "Εκπαίδευση Δράσεων Ορεινού Περιβάλλοντος",
+      "Εκπαίδευση Σκαπανικής",
+      "Διακριτικό Δάσους Κλ. Προσκόπων"
+    ]
+  },
+  {
+    "id": "vasia-charalampidou",
+    "firstName": "Βάσια",
+    "lastName": "Χαραλαμπίδου",
+    "scoutName": "Βίδρα",
+    "role": "Βαθμοφόρος Συστήματος",
+    "section": "systima",
+    "joinedYear": 2004,
+    "trainings": [
+      "Διακριτικό Δάσους Κλ. Λυκοπούλων",
+      "Εκπαίδευση Δράσεων Ορεινού Περιβάλλοντος",
+      "Εκπαίδευση Αρχηγών και Υπαρχηγών Συστημάτων"
+    ]
+  },
+  {
+    "id": "konstantinos-tsakogiannis",
+    "firstName": "Κωνσταντίνος",
+    "lastName": "Τσακογιάννης",
+    "scoutName": "Σαλάχι",
+    "role": "Βαθμοφόρος Συστήματος",
+    "section": "systima",
+    "joinedYear": 2020,
+    "trainings": [
+      "Διακριτικό Δάσους Κλ. Προσκόπων",
+      "Κυβερνήτου",
+      "Εκπαίδευση Δράσεων Ορεινού Περιβάλλοντος",
+      "Εκπαίδευση Εκπαιδευτών"
+    ]
+  },
+  {
+    "id": "michalis-nouskas",
+    "firstName": "Μιχάλης",
+    "lastName": "Νούσκας",
+    "scoutName": "Γάτος",
+    "role": "Αρχηγός Αγέλης",
+    "section": "agelh-lykopoulon",
+    "joinedYear": 2015,
+    "trainings": ["Κύκλος Μεθοδολογίας Αγέλης Λυκοπούλων"]
+  },
+  {
+    "id": "angelos-metikos",
+    "firstName": "Άγγελος",
+    "lastName": "Μέτικος",
+    "scoutName": "Ρακούν",
+    "role": "Βαθμοφόρος Αγέλης",
+    "section": "agelh-lykopoulon",
+    "joinedYear": 2015,
+    "trainings": ["Κύκλος Εισαγωγικής Εκπαίδευσης"]
+  },
+  {
+    "id": "katerina-dagre",
+    "firstName": "Κατερίνα",
+    "lastName": "Δαγρέ",
+    "scoutName": "Καρδερίνα",
+    "role": "Βαθμοφόρος Αγέλης",
+    "section": "agelh-lykopoulon",
+    "joinedYear": 2020,
+    "trainings": ["Διακριτικό Δάσους Κλ. Λυκοπούλων"]
+  },
+  {
+    "id": "stellina-fragki",
+    "firstName": "Στελλίνα",
+    "lastName": "Φραγκή",
+    "scoutName": "Μαιμού",
+    "role": "Βαθμοφόρος Αγέλης",
+    "section": "agelh-lykopoulon",
+    "joinedYear": 2016,
+    "trainings": ["Κύκλος Μεθοδολογίας Αγέλης Λυκοπούλων"]
+  },
+  {
+    "id": "ioannis-christoulis",
+    "firstName": "Ιωάννης",
+    "lastName": "Χριστούλης",
+    "scoutName": "Σκορπιός",
+    "role": "Αρχηγός Ομάδας",
+    "section": "omada-proskopon",
+    "joinedYear": 2011,
+    "trainings": [
+      "Κύκλος Πολυήμερων Δράσεων Υπαίθρου Κλάδου Προσκόπων",
+      "Σεμινάριο Δράσεων Ορεινού Περιβάλλοντος"
+    ]
+  },
+  {
+    "id": "aliki-nouska",
+    "firstName": "Αλίκη",
+    "lastName": "Νούσκα",
+    "scoutName": "Καρακάλ",
+    "role": "Βαθμοφόρος Ομάδας",
+    "section": "omada-proskopon",
+    "joinedYear": 2015,
+    "trainings": ["Κύκλος Πολυήμερων Δράσεων Υπαίθρου Κλάδου Προσκόπων"]
+  },
+  {
+    "id": "konstantinos-ritsos",
+    "firstName": "Κωνσταντίνος",
+    "lastName": "Ρίτσος",
+    "scoutName": "Κόνδορας",
+    "role": "Αρχηγός Κοινότητας",
+    "section": "koinotita-anixneuton",
+    "joinedYear": 2008,
+    "trainings": [
+      "Διακριτικό Δάσους Κλ. Ανιχνευτών",
+      "Κύκλος Μεθοδολογίας Κλ. Προσκόπων",
+      "Εκπαίδευση Δράσεων Ορεινού Περιβάλλοντος",
+      "Προσκοπικό Διαβατήριο"
+    ]
+  },
+  {
+    "id": "nefeli-afentouli",
+    "firstName": "Νεφέλη",
+    "lastName": "Αφεντούλη",
+    "scoutName": "Ύαινα",
+    "role": "Βαθμοφόρος Κοινότητας",
+    "section": "koinotita-anixneuton",
+    "joinedYear": 2010,
+    "trainings": [
+      "Διακριτικό Δάσους Κλ. Προσκόπων",
+      "Εκπαίδευση Μεγάλων Δράσεων Υπαίθρου Κλ. Ανιχνευτών",
+      "Εκπαίδευση Δράσεων Ορεινού Περιβάλλοντος",
+      "Εκπαίδευση Αρχηγών και Υπαρχηγών Συστημάτων"
+    ]
+  },
+  {
+    "id": "iro-velissari",
+    "firstName": "Ηρώ",
+    "lastName": "Βελισσάρη",
+    "scoutName": "Ερμίνα",
+    "role": "Βαθμοφόρος Κοινότητας",
+    "section": "koinotita-anixneuton",
+    "joinedYear": 2011,
+    "trainings": [
+      "Διακριτικό Δάσους Κλ. Προσκόπων",
+      "Κύκλος Μεθοδολογίας Κλ. Ανιχνευτών",
+      "Εκπαίδευση Δράσεων Ορεινού Περιβάλλοντος"
+    ]
+  },
+  {
+    "id": "konstantinos-andreoulas",
+    "firstName": "Κωνσταντίνος",
+    "lastName": "Ανδρεούλας",
+    "scoutName": "Κογιότ",
+    "role": "Βαθμοφόρος Κοινότητας",
+    "section": "koinotita-anixneuton",
+    "joinedYear": 2024,
+    "trainings": [
+      "Κύκλος Μεθοδολογίας Αγέλης Λυκοπούλων",
+      "Εκπαίδευση Δράσεων Ορεινού Περιβάλλοντος"
+    ]
+  },
+  {
+    "id": "chrysanthi-skondra",
+    "firstName": "Χρυσάνθη",
+    "lastName": "Σκόνδρα",
+    "scoutName": "Σίλκι",
+    "role": "Μέλος Δικτύου",
+    "section": "diktyo",
+    "joinedYear": 2015,
+    "trainings": ["Κύκλος Εισαγωγικής Εκπαίδευσης"]
+  },
+  {
+    "id": "rogiros-agrotis",
+    "firstName": "Ρογήρος",
+    "lastName": "Αγρότης",
+    "scoutName": "Λαγός",
+    "role": "Μέλος Δικτύου",
+    "section": "diktyo",
+    "joinedYear": 2000,
+    "trainings": ["Διακριτικό Δάσους Κλ. Ανιχνευτών"]
+  },
+  {
+    "id": "konstantina-toutouza",
+    "firstName": "Κωνσταντίνα",
+    "lastName": "Τούτουζα",
+    "scoutName": "Αντιλόπη",
+    "role": "Μέλος Δικτύου",
+    "section": "diktyo",
+    "joinedYear": 2022,
+    "trainings": ["Κύκλος Εισαγωγικής Εκπαίδευσης"]
+  }
+]

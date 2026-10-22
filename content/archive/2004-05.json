@@ -1,0 +1,82 @@
+{
+  "year": "2004–05",
+  "note": "TODO: Χρονιά Ολυμπιακών Αγώνων, οι Ανιχνευτές συμμετείχαν ως εθελοντές.",
+  "leaders": [
+    {
+      "name": "Νίκη Φωτίου",
+      "role": "Αρχηγός Συστήματος",
+      "section": "systima"
+    },
+    {
+      "name": "Γιώργος Παπαδόπουλος",
+      "role": "Αρχηγός Ομάδας",
+      "section": "omada-proskopon"
+    },
+    {
+      "name": "Μαρίνα Κουτσού",
+      "role": "Ακέλα",
+      "section": "agelh-lykopoulon"
+    },
+    {
+      "name": "Ηλίας Δούκας",
+      "role": "Αρχηγός Κοινότητας",
+      "section": "koinotita-anixneuton"
+    }
+  ],
+  "trips": [
+    {
+      "title": "Εκδρομή στην Αράχωβα",
+      "section": "agelh-lykopoulon",
+      "date": "2004-11-14",
+      "type": "point",
+      "places": [
+        {
+          "name": "Αράχωβα – Παρνασσός",
+          "lat": 38.4797,
+          "lng": 22.585
+        }
+      ]
+    },
+    {
+      "title": "Κατασκήνωση",
+      "section": "omada-proskopon",
+      "date": "2005-07-05",
+      "type": "point",
+      "places": [
+        {
+          "name": "Ελάτη Τρικάλων",
+          "lat": 39.508,
+          "lng": 21.5
+        }
+      ]
+    },
+    {
+      "title": "Θερινή εξόρμηση: Ήπειρος",
+      "section": "koinotita-anixneuton",
+      "date": "2005-07-12",
+      "type": "route",
+      "places": [
+        {
+          "name": "Ιωάννινα",
+          "lat": 39.665,
+          "lng": 20.853
+        },
+        {
+          "name": "Μέτσοβο",
+          "lat": 39.77,
+          "lng": 21.1833
+        },
+        {
+          "name": "Ανήλιο",
+          "lat": 39.76,
+          "lng": 21.15
+        },
+        {
+          "name": "Κόνιτσα",
+          "lat": 40.045,
+          "lng": 20.748
+        }
+      ]
+    }
+  ]
+}

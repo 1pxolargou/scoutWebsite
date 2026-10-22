@@ -1,0 +1,56 @@
+{
+  "year": "1976–77",
+  "leaders": [
+    {
+      "name": "Ανδρέας Μαυρίδης",
+      "role": "Αρχηγός Συστήματος",
+      "section": "systima"
+    },
+    {
+      "name": "Ελένη Σταμάτη",
+      "role": "Ακέλα",
+      "section": "agelh-lykopoulon"
+    },
+    {
+      "name": "Ρένα Παππά",
+      "role": "Βαθμοφόρος Αγέλης",
+      "section": "agelh-lykopoulon"
+    },
+    {
+      "name": "Ευάγγελος Ρούσσος",
+      "role": "Αρχηγός",
+      "section": "omada-proskopon"
+    },
+    {
+      "name": "Κώστας Ζαχαρίου",
+      "role": "Βαθμοφόρος Ομάδας",
+      "section": "omada-proskopon"
+    }
+  ],
+  "trips": [
+    {
+      "title": "Κατασκήνωση Αγέλης",
+      "section": "agelh-lykopoulon",
+      "type": "point",
+      "places": [
+        {
+          "name": "Βαρυμπόμπη",
+          "lat": 38.13,
+          "lng": 23.7894
+        }
+      ]
+    },
+    {
+      "title": "Κατασκήνωση Ομάδας",
+      "section": "omada-proskopon",
+      "type": "point",
+      "places": [
+        {
+          "name": "Ελάτη, Τρικάλων",
+          "lat": 39.5025,
+          "lng": 21.5387
+        }
+      ]
+    }
+  ]
+}

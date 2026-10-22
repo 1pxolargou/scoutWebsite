@@ -1,0 +1,145 @@
+{
+  "year": "2023–24",
+  "leaders": [
+    {
+      "name": "Γιώργος Παπαδόπουλος",
+      "role": "Αρχηγός Συστήματος",
+      "section": "systima"
+    },
+    {
+      "name": "Θανάσης Ρήγας",
+      "role": "Υπαρχηγός Συστήματος",
+      "section": "systima"
+    },
+    {
+      "name": "Ιωάννα Πετρίδου",
+      "role": "Αρχηγός Αγέλης",
+      "section": "agelh-lykopoulon"
+    },
+    {
+      "name": "Νίκος Αντωνίου",
+      "role": "Βαθμοφόρος Αγέλης",
+      "section": "agelh-lykopoulon"
+    },
+    {
+      "name": "Δημήτρης Νικολάου",
+      "role": "Αρχηγός Ομάδας",
+      "section": "omada-proskopon"
+    },
+    {
+      "name": "Σοφία Ιωάννου",
+      "role": "Υπαρχηγός Ομάδας",
+      "section": "omada-proskopon"
+    },
+    {
+      "name": "Κώστας Λαμπρόπουλος",
+      "role": "Αρχηγός Κοινότητας",
+      "section": "koinotita-anixneuton"
+    },
+    {
+      "name": "Παναγιώτης Στεφανίδης",
+      "role": "Υπαρχηγός Κοινότητας",
+      "section": "koinotita-anixneuton"
+    }
+  ],
+  "trips": [
+    {
+      "title": "Εκδρομή στο Ναύπλιο",
+      "section": "agelh-lykopoulon",
+      "date": "2023-11-12",
+      "type": "point",
+      "places": [
+        {
+          "name": "Ναύπλιο",
+          "lat": 37.5673,
+          "lng": 22.8016
+        }
+      ]
+    },
+    {
+      "title": "Ανοιξιάτικη κατασκήνωση",
+      "section": "agelh-lykopoulon",
+      "date": "2024-04-27",
+      "type": "point",
+      "places": [
+        {
+          "name": "Πάρνηθα – Καταφύγιο Μπάφι",
+          "lat": 38.1606,
+          "lng": 23.7239
+        }
+      ]
+    },
+    {
+      "title": "Διήμερη εξόρμηση",
+      "section": "omada-proskopon",
+      "date": "2023-11-25",
+      "type": "point",
+      "places": [
+        {
+          "name": "Προσκοπικό Κέντρο Βαρυμπόμπης",
+          "lat": 38.1325,
+          "lng": 23.7814
+        }
+      ]
+    },
+    {
+      "title": "Καλοκαιρινή κατασκήνωση",
+      "section": "omada-proskopon",
+      "date": "2024-07-06",
+      "type": "point",
+      "places": [
+        {
+          "name": "Μετέωρα",
+          "lat": 39.7217,
+          "lng": 21.6306
+        }
+      ]
+    },
+    {
+      "title": "Εθελοντισμός στον Σχινιά",
+      "section": "koinotita-anixneuton",
+      "date": "2024-03-17",
+      "type": "point",
+      "places": [
+        {
+          "name": "Σχινιάς Μαραθώνα",
+          "lat": 38.1407,
+          "lng": 24.03
+        }
+      ]
+    },
+    {
+      "title": "Θερινή εξόρμηση: Πήλιο από άκρη σε άκρη",
+      "section": "koinotita-anixneuton",
+      "date": "2024-07-12",
+      "type": "route",
+      "places": [
+        {
+          "name": "Βόλος",
+          "lat": 39.3622,
+          "lng": 22.9425
+        },
+        {
+          "name": "Μακρινίτσα",
+          "lat": 39.4004,
+          "lng": 22.9871
+        },
+        {
+          "name": "Χάνια",
+          "lat": 39.3953,
+          "lng": 23.0464
+        },
+        {
+          "name": "Ζαγορά",
+          "lat": 39.4469,
+          "lng": 23.1015
+        },
+        {
+          "name": "Τσαγκαράδα",
+          "lat": 39.3914,
+          "lng": 23.1625
+        }
+      ]
+    }
+  ]
+}

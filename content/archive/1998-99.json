@@ -1,0 +1,99 @@
+{
+  "year": "1998–99",
+  "leaders": [
+    {
+      "name": "Νίκη Φωτίου",
+      "role": "Αρχηγός Συστήματος",
+      "section": "systima"
+    },
+    {
+      "name": "Σπύρος Αλεξίου",
+      "role": "Αρχηγός Ομάδας",
+      "section": "omada-proskopon"
+    },
+    {
+      "name": "Μαρίνα Κουτσού",
+      "role": "Ακέλα",
+      "section": "agelh-lykopoulon"
+    },
+    {
+      "name": "Γιώργος Παπαδόπουλος",
+      "role": "Βαθμοφόρος Ομάδας",
+      "section": "omada-proskopon"
+    },
+    {
+      "name": "Ηλίας Δούκας",
+      "role": "Αρχηγός Κοινότητας",
+      "section": "koinotita-anixneuton"
+    }
+  ],
+  "trips": [
+    {
+      "title": "Εκδρομή στην Πάρνηθα",
+      "section": "agelh-lykopoulon",
+      "date": "1998-11-08",
+      "type": "point",
+      "places": [
+        {
+          "name": "Πάρνηθα – Καταφύγιο Μπάφι",
+          "lat": 38.1606,
+          "lng": 23.7239
+        }
+      ]
+    },
+    {
+      "title": "Κατασκήνωση",
+      "section": "omada-proskopon",
+      "date": "1999-07-06",
+      "type": "point",
+      "places": [
+        {
+          "name": "Καρπενήσι",
+          "lat": 38.9144,
+          "lng": 21.7963
+        }
+      ]
+    },
+    {
+      "title": "Εθελοντισμός στη Στενή",
+      "section": "koinotita-anixneuton",
+      "date": "1999-04-11",
+      "type": "point",
+      "places": [
+        {
+          "name": "Στενή Ευβοίας",
+          "lat": 38.585,
+          "lng": 23.83
+        }
+      ]
+    },
+    {
+      "title": "Θερινή εξόρμηση: Ζαγόρι",
+      "section": "koinotita-anixneuton",
+      "date": "1999-07-14",
+      "type": "route",
+      "places": [
+        {
+          "name": "Μονοδένδρι",
+          "lat": 39.886,
+          "lng": 20.756
+        },
+        {
+          "name": "Φαράγγι Βίκου",
+          "lat": 39.951,
+          "lng": 20.738
+        },
+        {
+          "name": "Πάπιγκο",
+          "lat": 39.97,
+          "lng": 20.722
+        },
+        {
+          "name": "Δρακόλιμνη Αστράκας",
+          "lat": 39.982,
+          "lng": 20.773
+        }
+      ]
+    }
+  ]
+}
