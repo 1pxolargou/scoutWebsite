@@ -58,7 +58,7 @@ next-env.d.ts
 
 # Φωτογραφίες: εικονίζουν ανηλίκους και μένουν ΕΚΤΟΣ git μέχρι να επιβεβαιωθεί
 # η συγκατάθεση γονέων. Βλ. public/images/README.md
-/public/images/*
+/public/images/
 !/public/images/README.md
 
 # τοπικά εργαλεία
