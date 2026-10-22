@@ -63,3 +63,6 @@ next-env.d.ts
 
 # τοπικά εργαλεία
 /.claude/
+
+# αρχειο deployment για github pages, ignore προς το παρόν
+./.github/workflows/deploy.yml
